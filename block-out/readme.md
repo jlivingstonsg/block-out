@@ -10,10 +10,11 @@ Animation can get a little jaggy occasionally, but everything behaves as it shou
 I will try to make it look and work, as the original BlockOut from 1989.  <br>
 
 Link to this code is here.    <br>
-https://block-out.netlify.app/
+https://block-out.netlify.app/    <br>
+or on github pages here     <br>
+https://jlivingstonsg.github.io/block-out/
 
-
-
+<br>
 
 
 Regards 
